@@ -55,3 +55,6 @@ plugins:
     download_interval: 1
     update_interval: 1
     upgrade_interval: 1
+  cloud_init:
+    metadata_sources: GCE
+    username: debian
