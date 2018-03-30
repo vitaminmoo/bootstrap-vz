@@ -9,6 +9,7 @@ properties:
       release:
         type: string
         enum:
+        - buster
         - wheezy
         - oldstable
         - jessie
